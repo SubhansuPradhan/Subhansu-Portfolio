@@ -17,7 +17,7 @@ export default function Projects() {
             <div className="mx-auto max-w-5xl px-4 sm:px-6">
                 <div className="mb-10 flex items-baseline justify-between">
                     <h2 className="font-serif text-2xl font-medium sm:text-3xl">Projects</h2>
-                    <span className="font-mono text-sm text-inkfaint">github.com/SubhansuPradhan</span>
+                    <span className="font-mono text-xs sm:text-sm text-inkfaint">github.com/SubhansuPradhan</span>
                 </div>
 
                 <div className="grid gap-5 sm:grid-cols-2">
