@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-image:
+    linear-gradient(#dadfd6 1px, transparent 1px),
+    linear-gradient(90deg, #dadfd6 1px, transparent 1px);
+  background-size: 28px 28px;
+  background-position: -1px -1px;
+}
+
+::selection {
+  background: #f6ce3e;
+  color: #152029;
+}
+
+.highlight-underline {
+  background-image: linear-gradient(transparent 60%, #f6ce3e 60%);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+html {
+    scroll-behavior: smooth;
+}
+
+section[id] {
+    scroll-margin-top: 72px;
+}
