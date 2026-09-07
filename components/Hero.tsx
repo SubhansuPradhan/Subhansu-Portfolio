@@ -81,12 +81,12 @@ export default function Hero() {
             <motion.a
               whileHover={{ scale: 1.04 }}
               whileTap={{ scale: 0.97 }}
-              href={profile.resumeUrl}
+              href={profile.cvUrl}
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-sm border border-ink px-5 py-2.5 text-sm transition-colors hover:bg-paper2"
             >
-              Resume
+              CV
             </motion.a>
           </motion.div>
         </div>

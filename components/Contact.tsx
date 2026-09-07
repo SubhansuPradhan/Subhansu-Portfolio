@@ -7,7 +7,7 @@ const links = [
   { label: "Email", href: `mailto:${profile.email}` },
   { label: "GitHub", href: profile.github },
   { label: "LinkedIn", href: profile.linkedin },
-  { label: "Resume", href: profile.resumeUrl },
+  { label: "CV", href: profile.cvUrl },
 ];
 
 export default function Contact() {

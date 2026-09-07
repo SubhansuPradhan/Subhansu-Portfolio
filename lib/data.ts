@@ -2,7 +2,7 @@ export const profile = {
   name: "Subhansu Pradhan",
   role: "Data Science student turning messy datasets into dashboards people read, models that hold up, and agents that check their own work.",
   photo: "/icons/Profile.jpeg",
-  resumeUrl: "https://drive.google.com/file/d/1B_kMzfJkX-3hQMrspcK4c3TIxNUk6M4H/view?usp=drive_link",
+  cvUrl: "https://drive.google.com/file/d/1B_kMzfJkX-3hQMrspcK4c3TIxNUk6M4H/view?usp=drive_link",
   email: "subhansup27@gmail.com",
   github: "https://github.com/SubhansuPradhan",
   linkedin: "https://www.linkedin.com/in/subhansu-pradhan-sp040527",
