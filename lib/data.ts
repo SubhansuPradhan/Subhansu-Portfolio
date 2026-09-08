@@ -2,7 +2,7 @@ export const profile = {
   name: "Subhansu Pradhan",
   role: "Data Science student turning messy datasets into dashboards people read, models that hold up, and agents that check their own work.",
   photo: "/icons/Profile.jpeg",
-  cvUrl: "https://drive.google.com/file/d/1B_kMzfJkX-3hQMrspcK4c3TIxNUk6M4H/view?usp=drive_link",
+  cvUrl: "https://drive.google.com/file/d/10tW4YHr3curNyT9Iu2fE0yr-B6ABOs-J/view?usp=sharing",
   email: "subhansup27@gmail.com",
   github: "https://github.com/SubhansuPradhan",
   linkedin: "https://www.linkedin.com/in/subhansu-pradhan-sp040527",
@@ -193,6 +193,10 @@ export const stack: { group: string; items: StackItem[] }[] = [
 ];
 
 export const certifications = [
+  {
+    title: "Oracle Certified Foundations Associate — Agentic AI",
+    detail: "Oracle University · Agentic AI · Certificate of Recognition · Sep 2026",
+  },
   {
     title: "Oracle Cloud Infrastructure Certified AI Foundations Associate",
     detail: "Oracle · Artificial Intelligence · Machine Learning · Sep 2026",
