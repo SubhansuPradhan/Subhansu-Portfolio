@@ -20,6 +20,19 @@ export const stats = [
 
 export const experience = [
   {
+    when: "Oct 2026 – Present",
+    role: "Data Science Trainer(Technical Faculty)",
+    org: "NetTech India",
+    points: [
+      "Deliver technical training to students in programming, Python, and Data Science concepts.",
+      "Teach Python fundamentals, including data types, control flow, functions, OOP, and exception handling.",
+      "Provide practical training in SQL, NumPy, Pandas, Matplotlib, and data visualization.",
+      "Explain Machine Learning concepts and algorithms with real-world examples and practical demonstrations.",
+      "Guide students through hands-on exercises, assignments, and practical projects.",
+      "Simplify complex technical concepts to help students develop strong programming and analytical skills."
+    ],
+  },
+  {
     when: "May – Aug 2026",
     role: "Data Analyst Intern",
     org: "7S IQ Private Limited · Remote",
