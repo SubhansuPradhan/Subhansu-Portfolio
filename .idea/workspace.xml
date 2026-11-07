@@ -16,6 +16,65 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0" />
+      <entry key="M5" value="1.0" />
+      <entry key="M10" value="1.0" />
+      <entry key="M15" value="1.0" />
+      <entry key="M30" value="1.0" />
+      <entry key="H1" value="1.0" />
+      <entry key="H2" value="1.0" />
+      <entry key="H4" value="1.0" />
+      <entry key="D1" value="1.0" />
+      <entry key="W1" value="1.0" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.003933420117409056" />
+      <entry key="MS500" value="0.3303346014145663" />
+      <entry key="S2" value="0.7581209824410208" />
+      <entry key="S5" value="0.8951491563496086" />
+      <entry key="S10" value="0.9461232247173772" />
+      <entry key="S30" value="0.9817085372682118" />
+      <entry key="S60" value="0.9908120595088716" />
+      <entry key="M2" value="0.9953954287160814" />
+      <entry key="M5" value="0.9981556209703707" />
+      <entry key="M10" value="0.9990773848758516" />
+      <entry key="M15" value="0.9993848286319124" />
+      <entry key="M30" value="0.9996923669969239" />
+      <entry key="H1" value="0.9998461716668839" />
+      <entry key="H2" value="0.99992308287532" />
+      <entry key="H4" value="0.9999615406981011" />
+      <entry key="D1" value="0.9999935900136312" />
+      <entry key="W1" value="0.9999990842851461" />
+    </decayedShown>
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -71,7 +130,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.10315.144" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.11879.105" />
       </set>
     </attachedChunks>
   </component>
@@ -107,7 +166,8 @@
       <workItem from="1788756085534" duration="1688000" />
       <workItem from="1788876025169" duration="540000" />
       <workItem from="1788893818041" duration="1075000" />
-      <workItem from="1794060996723" duration="445000" />
+      <workItem from="1794060996723" duration="3345000" />
+      <workItem from="1794065102755" duration="50000" />
     </task>
     <servers />
   </component>

@@ -2,7 +2,7 @@ export const profile = {
   name: "Subhansu Pradhan",
   role: "Data Science student turning messy datasets into dashboards people read, models that hold up, and agents that check their own work.",
   photo: "/icons/Profile.jpeg",
-  cvUrl: "https://drive.google.com/file/d/10tW4YHr3curNyT9Iu2fE0yr-B6ABOs-J/view?usp=sharing",
+  cvUrl: "https://still-thunder-532.linkyhost.com",
   email: "subhansup27@gmail.com",
   github: "https://github.com/SubhansuPradhan",
   linkedin: "https://www.linkedin.com/in/subhansu-pradhan-sp040527",
@@ -13,7 +13,7 @@ export const profile = {
 };
 
 export const stats = [
-  { num: "0.6 yrs", label: "hands-on experience across data analyst and AI/ML internships" },
+  { num: "0.7 yrs", label: "hands-on experience across data analyst and AI/ML internships" },
   { num: "11", label: "projects shipped, from BI dashboards to agentic AI systems" },
   { num: "10+", label: "certifications completed across analytics, GenAI, and agentic AI" },
 ];
