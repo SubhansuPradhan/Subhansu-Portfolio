@@ -13,7 +13,7 @@ export const profile = {
 };
 
 export const stats = [
-  { num: "0.7 yrs", label: "hands-on experience across data analyst and AI/ML internships" },
+  { num: "0.8 yrs", label: "hands-on experience across data analyst and AI/ML internships" },
   { num: "11", label: "projects shipped, from BI dashboards to agentic AI systems" },
   { num: "10+", label: "certifications completed across analytics, GenAI, and agentic AI" },
 ];
